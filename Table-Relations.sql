@@ -165,8 +165,8 @@ ADD CONSTRAINT fk_managerID FOREIGN KEY(ManagerID)
 REFERENCES Teachers(TeacherID)
 ON DELETE NO ACTION;
 
-5.	Online Store Database
-Create a new database and design the following structure:
+--5.	Online Store Database
+--Create a new database and design the following structure:
 
 CREATE DATABASE Online_Store_DATEBASE2
 GO
